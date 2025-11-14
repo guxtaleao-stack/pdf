@@ -1,0 +1,16 @@
+body{
+    margin:0;
+    background:#efefef;
+    font-family:Arial, sans-serif;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+
+.page-img{
+    width:90%;
+    max-width:1000px;
+    margin:25px 0;
+    box-shadow:0 0 12px rgba(0,0,0,0.25);
+    border:4px solid #b30000;
+}
